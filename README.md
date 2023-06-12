@@ -5,7 +5,7 @@ A project to create a japanese anime waifu using AI, with the goal of creating a
 ### Technologies
 
 - Python
-- OpenAI Whisper (speec to text)
-- Voicevox (text to speec)
+- OpenAI Whisper (speech to text)
+- Voicevox (text to speech)
 - Deepl (translation)
 - Character AI (language model, experimental)
